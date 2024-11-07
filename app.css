@@ -3,4 +3,5 @@ h1 {
     font-size: 65px;
     font-display: unset;
     box-sizing: content-box;
+    color: violet;
 }
